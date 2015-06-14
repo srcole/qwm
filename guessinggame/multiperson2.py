@@ -81,8 +81,8 @@ closests = np.matlib.repmat(closests,2,1)
 y = np.arange(2)
 
 plt.figure()
-plt.pcolor(ns, y, closests, cmap=cm.jet)
+plt.pcolor(ns, y, closests)
+plt.colors()
 for n in range(N):
     plt.plot([n,n],[0,1],'k-')
-plt.colorbar()
-    
+plt.colorbar()    
