@@ -1,0 +1,34 @@
+,Location,Neighborhood,Address,URL,Yelp,Google,Chips,Latitude,Longitude,Fillings,Meat,Temp,overall,N,Tortilla,Synergy,Uniformity,Hunger,Meat:filling,Volume,Cost,Wrap,Salsa
+0,donato's taco shop,Miramar,6780 Miramar Rd,http://donatostacoshop.net/,3.5,4.2,False,32.8789964,-117.1688463,3.5,3.0,5.0,3.8,1,3.0,4.0,4.0,3.0,4.0,,6.49,4.0,4.0
+1,oscar's mexican food,San Marcos,225 S Rancho Santa Fe Rd,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,3.5,3.3,False,33.145203,-117.20029,2.5,2.5,3.5,3.0,1,2.0,2.5,4.0,3.5,2.0,,5.45,5.0,3.5
+2,pollos maria,Carlsbad,3055 Harding St,http://pollosmaria.com/,4.0,3.8,True,33.1611876,-117.3443194,3.5,4.0,5.0,4.2,1,4.0,4.5,5.0,4.0,4.5,,6.59,4.0,2.5
+3,nico's taco shop,Carmel Valley,3860 Valley Centre Dr #404,http://www.yelp.com/biz/nicos-taco-shop-san-diego,3.0,2.9,False,32.9391356,-117.2321631,2.0,3.0,3.0,2.6,1,2.0,2.0,2.5,1.5,2.5,,7.19,3.0,
+4,los primos mexican food,UTC,7770 Regents Rd,http://www.primosmex.com/,3.0,3.7,True,32.8627496,-117.224335,3.2,3.5,3.7,2.84,5,2.9,2.5,2.25,3.3,1.8,0.896666666667,7.85,3.6,2.8
+5,tony's fresh mexican food,Miramar,7122 Miramar Rd,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,3.0,4.1,True,32.8798825,-117.1605069,3.0,2.75,3.5,3.325,2,3.5,3.5,3.75,3.25,3.0,,6.25,4.0,1.0
+6,taco stand,La Jolla,621 Pearl St,http://letstaco.com/,4.5,4.4,False,32.8393518,-117.2768191,4.04545454545,4.27272727273,3.45454545455,4.23636363636,11,3.68181818182,4.36363636364,3.72727272727,3.0,3.72727272727,0.767142857143,7.53636363636,4.0,3.63636363636
+7,rigoberto's taco shop la jolla,La Jolla,7345 La Jolla Blvd,https://www.yelp.com/biz/rigobertos-la-jolla-2,2.5,4.0,False,32.8372413,-117.2780722,3.0,2.875,3.5,3.25,2,3.25,,3.0,3.25,4.0,,6.4,4.75,1.75
+8,lolita's taco shop,Kearny Mesa,7305 Clairemont Mesa Blvd,http://lolitasmexicanfood.com/,4.0,4.4,False,32.831835,-117.1605573,3.125,3.25,3.5,3.15,4,3.325,2.875,3.75,3.05,2.75,0.85,7.0,4.375,3.0
+9,rigoberto's taco shop,Miramar,7094 Miramar Rd,https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,4.0,4.4,False,32.8799798,-117.1621159,3.75,3.75,4.75,4.05,2,3.0,4.5,3.5,3.0,4.25,,6.6,4.25,3.75
+10,el zarape,University Heights,4642 Park Blvd,https://www.yelp.com/biz/el-zarape-san-diego,4.0,4.4,True,32.7618006,-117.1464649,2.625,3.25,5.0,2.916665,2,3.25,3.2,2.15,1.75,4.0,,6.25,5.0,3.5
+11,el indio,San Diego,3695 India St,http://elindiosandiego.com/,3.5,3.9,False,32.7423239,-117.1801448,4.0,3.5,4.0,4.0,1,4.0,3.5,4.0,4.0,4.5,,7.84,4.5,3.5
+12,cancun mexican & seafood,Encinitas,1766 N Coast Hwy,http://cancunmexicanandseafood.com/,4.5,4.1,True,33.0003393,-117.2755039,3.5,4.0,4.5,4.2,1,4.0,4.0,2.5,4.0,4.0,,6.99,4.0,2.0
+13,vallarta express,Clairemont,4277 Genesee Ave,http://www.vallartaexpress.com/menu/,3.5,4.0,False,32.8213696,-117.1825596,3.5,2.75,3.5,3.45,2,3.25,3.25,3.0,3.75,3.75,0.88,6.8,3.0,3.0
+14,mikes taco club,Ocean Beach,5060 Newport Ave,http://www.mikestacoclub.com/menu/,4.5,4.9,False,32.7476247,-117.252021,4.75,3.75,4.5,4.4,2,4.25,4.5,3.0,3.0,3.25,,8.59,4.5,4.0
+15,la perla cocina,Pacific Beach,745 Emerald St,https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,4.5,4.7,False,32.7981625,-117.2563715,4.0,3.5,4.5,4.0,1,4.0,3.5,2.0,3.0,3.0,,9.99,4.0,2.5
+16,california burritos,Linda Vista,7754 Starling Dr,https://www.yelp.com/biz/california-burritos-san-diego,4.5,4.4,True,32.7931775,-117.1559168,4.03846153846,3.84615384615,3.36923076923,4.08333333333,13,3.90769230769,4.0,3.84615384615,3.73076923077,3.94230769231,0.845555555556,6.25,4.5,3.54166666667
+17,jorge's mexicatessen,Encinitas ,267 N El Camino Rea,https://www.yelp.com/biz/jorges-mexicatessen-encinitas,4.0,4.5,False,33.0530072,-117.2601426,4.0,3.5,2.5,3.8,1,2.5,4.5,4.5,3.5,3.0,0.77,5.95,4.5,4.0
+18,senor grubby's,Carlsbad,377 Carlsbad Village Dr,eatgrubbys.com,4.0,4.1,False,33.1586119,-117.3498455,1.5,3.0,3.5,1.5,1,2.0,1.5,1.0,2.0,1.0,0.7,9.0,3.5,2.5
+19,mi asador mexican & seafood ,Oceanside,4750 Oceanside Blvd,https://sites.google.com/site/miasador/,4.5,4.4,True,33.2160515,-117.2718188,2.5,3.0,2.5,3.0,1,3.0,3.0,2.0,3.0,2.5,0.96,6.89,4.0,3.5
+20,sotos mexican food,Miramar ,6904 Miramar Rd,https://www.yelp.com/biz/sotos-mexican-food-san-diego,4.5,4.6,True,32.8791598,-117.167373,4.0,3.0,4.0,3.5,1,4.5,3.5,3.0,3.0,1.0,0.95,6.75,4.5,4.5
+21,karina's taco shop ,Encinitas ,916 N Coast Hwy 101,https://www.yelp.com/biz/karinas-taco-shop-encinitas,4.0,4.2,False,33.0647964,-117.3026313,3.5,3.5,4.0,3.8,1,3.5,4.0,1.0,2.5,3.0,0.84,6.99,4.5,4.0
+22,juanita's taco shop,Encinitas ,290 N Coast Hwy 101,https://www.yelp.com/biz/juanitas-taco-shop-encinitas,4.0,4.5,False,33.0542203,-117.2969076,3.0,3.0,4.5,3.5,1,4.0,3.0,3.0,3.5,5.0,0.74,5.55,5.0,4.0
+23,taco surf pb,Pacific Beach,4657 Mission Blvd,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,4.0,4.6,False,32.7988885,-117.2559985,4.5,4.25,2.0,4.25,2,4.0,4.25,2.0,4.25,3.75,0.89,7.14,4.5,3.5
+24,netos mexican food,San Marcos,325 S Rancho Santa Fe Rd,https://www.yelp.com/biz/netos-mexican-food-san-marcos,4.5,4.1,True,33.142553,-117.2020361,4.0,3.0,5.0,3.2,1,4.5,3.75,2.0,4.0,2.0,0.9,5.99,4.0,2.0
+25,albertacos,San Marcos,500 W San Marcos Blvd # 103,https://www.yelp.com/biz/albertacos-san-marcos,3.5,3.9,False,33.1395167,-117.1721427,4.0,3.0,3.0,3.7,1,3.5,4.0,4.0,3.5,1.5,0.75,5.7,4.0,4.0
+26,el rey moro,Clairemont,4471 Clairemont Mesa Blvd,https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,4.0,3.8,False,32.8341884,-117.195824,3.5,4.0,4.5,4.0,1,3.5,3.5,4.5,2.8,5.0,0.9,9.19,5.0,3.0
+27,papa chito's mexican food,University City,3951 Governor Dr,https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,2.5,3.3,False,32.853489,-117.203946,2.75,2.75,4.25,2.975,2,3.75,2.75,3.75,3.75,3.25,0.66,6.25,5.0,3.0
+28,el pueblo mexican food,Cardiff ,820 Birmingham Dr,https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea,4.0,4.7,False,33.0268719,-117.2735051,4.0,3.5,4.5,4.3,1,4.5,4.5,5.0,4.0,4.5,0.67,4.99,5.0,2.5
+29,burros and fries,Clairemont,4705 Clairemont Dr,http://www.burrosandfries.com/,3.5,4.1,False,32.8297288,-117.2050566,3.5,3.5,4.5,3.5,1,3.5,3.5,1.5,4.0,3.0,0.87,6.89,5.0,2.5
+30,king burrito,Oceanside,3490 Marron Rd,https://www.yelp.com/biz/king-burrito-oceanside-2,4.0,3.9,False,33.1787882,-117.2948203,3.0,2.0,4.5,2.5,1,2.5,2.0,1.5,3.5,2.5,0.75,5.29,4.5,3.0
+31,senor panchos,San Marcos,1909 W San Marcos Blvd,https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,4.0,4.2,False,33.1315065,-117.2095559,3.0,4.0,4.0,4.0,1,3.0,4.0,4.5,3.0,3.5,0.64,6.25,5.0,4.0
+32,los cabos,San Marcos,165 S Rancho Santa Fe Rd,https://www.yelp.com/biz/los-cabos-san-marcos,4.0,4.1,True,33.1469013,-117.199826,2.5,2.5,4.5,3.0,1,4.0,4.0,1.5,4.0,2.5,0.65,5.99,5.0,3.0
