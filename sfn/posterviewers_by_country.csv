@@ -1,0 +1,2869 @@
+,Country,Number of people
+0,United States,4
+1,United States,2
+2,United States,3
+3,China,4
+4,Japan,3
+5,Bolivarian Republic of,3
+6,United States,1
+7,China,1
+8,Singapore,1
+9,United Kingdom,5
+10,China,5
+11,Ireland,5
+12,United States,4
+13,United States,1
+14,United States,3
+15,United States,2
+16,Japan,2
+17,United States,3
+18,United States,1
+19,United States,1
+20,Germany,7
+21,France,7
+22,United States,4
+23,France,3
+24,United States,3
+25,Taiwan,3
+26,Canada,3
+27,Canada,2
+28,United States,2
+29,United  Kingdom,3
+30,Brazil,2
+31,Norway,2
+32,Germany,2
+33,United States,0
+34,Denmark,1
+35,South Africa,1
+36,United Kingdom,0
+37,United States,1
+38,Germany,2
+39,United States,0
+40,United States,0
+41,Spain,0
+42,United States,2
+43,United States,1
+44,United States,1
+45,United States,4
+46,United States,1
+47,United States,0
+48,United States,0
+49,United States,1
+50,Argentina,1
+51,United States,0
+52,United Kingdom,1
+53,United States,3
+54,United States,3
+55,United States,1
+56,United States,2
+57,Republic of,2
+58,United States,2
+59,United States,2
+60,Japan,2
+61,United States,3
+62,United Kingdom,0
+63,Germany,0
+64,Mexico,3
+65,United States,4
+66,China,4
+67,United States,4
+68,United States,0
+69,China,0
+70,United States,4
+71,Australia,2
+72,United States,2
+73,United States,2
+74,United States,4
+75,United States,2
+76,United States,3
+77,Spain,3
+78,Turkey,3
+79,United States,5
+80,Mexico,2
+81,Turkey,2
+82,United States,0
+83,United States,2
+84,Switzerland,3
+85,Germany,3
+86,Spain,2
+87,United States,2
+88,Finland,0
+89,Lithuania,0
+90,United States,2
+91,United States,1
+92,Brazil,1
+93,Brazil,3
+94,United States,2
+95,United States,2
+96,Brazil,2
+97,United States,3
+98,United States,2
+99,United States,2
+100,Canada,2
+101,France,2
+102,United States,2
+103,United States,0
+104,China,1
+105,Switzerland,1
+106,Germany,1
+107,India,4
+108,Japan,3
+109,United Kingdom,6
+110,United States,6
+111,Israel,1
+112,United States,1
+113,United States,2
+114,United Kingdom,0
+115,Japan,3
+116,Spain,3
+117,United States,1
+118,United States,0
+119,United States,0
+120,United States,0
+121,United States,2
+122,Japan,5
+123,United States,3
+124,Canada,0
+125,Canada,0
+126,United States,0
+127,United States,1
+128,United Kingdom,0
+129,United States,4
+130,United States,3
+131,United States,3
+132,Switzerland,1
+133,United States,1
+134,United States,0
+135,Mexico,2
+136,United States,1
+137,United States,2
+138,Sweden,2
+139,Spain,2
+140,United States,0
+141,Canada,2
+142,United States,2
+143,United States,4
+144,United States,3
+145,United States,2
+146,United States,2
+147,Chile,3
+148,France,3
+149,United Kingdom,0
+150,United States,1
+151,Russian Federation,2
+152,United States,2
+153,United Kingdom,0
+154,United States,2
+155,United States,3
+156,United States,1
+157,United States,2
+158,United States,3
+159,United States,3
+160,United Kingdom,2
+161,United States,2
+162,Mexico,2
+163,Canada,1
+164,United States,1
+165,Mexico,1
+166,Austria,0
+167,Germany,0
+168,United States,2
+169,United Kingdom,3
+170,Japan,3
+171,Italy,3
+172,Singapore,3
+173,United States,2
+174,Mexico,0
+175,United States,2
+176,United States,2
+177,Austria,1
+178,United States,1
+179,United States,2
+180,United States,4
+181,Austria,3
+182,United States,0
+183,Japan,2
+184,Austria,2
+185,Canada,0
+186,Brazil,3
+187,Canada,1
+188,United States,1
+189,Switzerland,2
+190,United Kingdom,2
+191,United States,2
+192,United Kingdom,3
+193,Brazil,2
+194,United States,2
+195,United Kingdom,0
+196,United States,3
+197,United States,3
+198,United States,0
+199,United States,3
+200,United  Kingdom,2
+201,United States,2
+202,United States,2
+203,Singapore,1
+204,United Kingdom,2
+205,Germany,2
+206,United States,1
+207,Canada,3
+208,Canada,2
+209,United States,3
+210,United States,1
+211,United States,3
+212,United States,2
+213,Japan,3
+214,United States,0
+215,New Zealand,0
+216,Canada,0
+217,Canada,4
+218,United States,4
+219,United Kingdom,2
+220,Japan,2
+221,United States,2
+222,United States,4
+223,Israel,4
+224,United States,3
+225,Canada,3
+226,China,3
+227,United States,3
+228,United States,1
+229,Sweden,1
+230,United States,2
+231,Japan,2
+232,United Kingdom,2
+233,Japan,2
+234,United States,2
+235,United States,2
+236,Republic of,4
+237,Austria,4
+238,Germany,4
+239,United Kingdom,6
+240,Canada,6
+241,Republic of,6
+242,United Kingdom,4
+243,Canada,4
+244,Republic of,4
+245,United States,2
+246,United States,0
+247,United States,0
+248,United States,2
+249,United Kingdom,2
+250,United States,2
+251,Republic of,2
+252,United States,2
+253,Japan,0
+254,United States,2
+255,United States,1
+256,United States,2
+257,United States,1
+258,United States,2
+259,United States,1
+260,United Kingdom,7
+261,United States,1
+262,Canada,4
+263,United States,3
+264,United States,3
+265,United States,6
+266,Republic of,6
+267,United States,2
+268,United States,2
+269,United States,6
+270,United States,6
+271,United States,1
+272,United States,1
+273,United States,2
+274,United States,1
+275,Estonia,4
+276,United States,2
+277,United States,1
+278,Italy,1
+279,United States,2
+280,Republic of,1
+281,United States,2
+282,United States,2
+283,United States,0
+284,United States,2
+285,United States,0
+286,United States,2
+287,Denmark,2
+288,United States,4
+289,United States,5
+290,United States,2
+291,Japan,0
+292,United States,5
+293,United States,1
+294,United States,3
+295,Mexico,0
+296,United States,2
+297,United States,1
+298,United States,0
+299,United States,1
+300,United States,2
+301,Finland,1
+302,United States,5
+303,United States,3
+304,United States,0
+305,United States,3
+306,United States,2
+307,United States,0
+308,United States,0
+309,Canada,2
+310,Australia,0
+311,Spain,0
+312,United States,3
+313,United States,1
+314,Switzerland,1
+315,France,1
+316,Kuwait,2
+317,Japan,3
+318,Germany,2
+319,United States,1
+320,Italy,2
+321,Italy,2
+322,United States,0
+323,Canada,2
+324,Belgium,3
+325,France,3
+326,United States,0
+327,Italy,0
+328,United States,0
+329,Germany,1
+330,United States,0
+331,Sweden,2
+332,United States,4
+333,United States,1
+334,Belgium,2
+335,United States,2
+336,United States,4
+337,China,5
+338,Canada,1
+339,United States,0
+340,Republic of,2
+341,Republic of,0
+342,Canada,2
+343,France,2
+344,United States,6
+345,Taiwan,3
+346,Canada,7
+347,United States,2
+348,Brazil,3
+349,United States,3
+350,United States,2
+351,United States,0
+352,United States,2
+353,United States,2
+354,United States,0
+355,Canada,0
+356,United States,1
+357,Sweden,1
+358,United States,3
+359,United States,4
+360,United States,4
+361,United Kingdom,2
+362,Germany,2
+363,Japan,2
+364,United States,2
+365,United States,0
+366,Canada,2
+367,United States,2
+368,United States,0
+369,United States,1
+370,United States,2
+371,United States,4
+372,United States,4
+373,Brazil,2
+374,United States,2
+375,United States,2
+376,United States,2
+377,United States,2
+378,China,4
+379,India,4
+380,Canada,6
+381,United States,1
+382,Australia,0
+383,United States,0
+384,Switzerland,3
+385,United States,0
+386,United States,2
+387,China,2
+388,Germany,1
+389,Japan,0
+390,United States,1
+391,United States,1
+392,Japan,1
+393,United States,2
+394,United States,2
+395,United States,1
+396,United States,0
+397,United States,2
+398,United States,1
+399,Japan,3
+400,United States,0
+401,United States,2
+402,Canada,3
+403,United States,3
+404,Israel,3
+405,United  Kingdom,3
+406,United States,1
+407,United States,2
+408,United States,2
+409,United  Kingdom,2
+410,United States,2
+411,Italy,2
+412,United States,1
+413,United States,0
+414,France,0
+415,Finland,0
+416,United States,1
+417,China,1
+418,Brazil,2
+419,United States,2
+420,United States,4
+421,Australia,4
+422,United States,1
+423,United States,2
+424,United States,1
+425,United States,2
+426,United States,2
+427,United Kingdom,2
+428,United States,0
+429,United States,2
+430,United States,0
+431,United States,3
+432,Brazil,2
+433,Brazil,8
+434,United States,8
+435,Brazil,2
+436,United States,2
+437,United States,4
+438,United States,3
+439,United States,0
+440,United States,2
+441,United States,2
+442,United States,2
+443,United States,0
+444,Netherlands,0
+445,Germany,0
+446,China,1
+447,United States,0
+448,United States,1
+449,United States,3
+450,United States,2
+451,United States,2
+452,Japan,0
+453,United States,1
+454,United States,3
+455,United States,0
+456,United States,0
+457,United States,2
+458,United States,1
+459,United States,4
+460,Canada,1
+461,Switzerland,1
+462,United States,1
+463,United States,0
+464,United States,0
+465,United States,2
+466,United States,0
+467,United States,1
+468,Switzerland,0
+469,Poland,0
+470,South  Africa,0
+471,United States,1
+472,Canada,2
+473,United Kingdom,2
+474,United Kingdom,3
+475,United States,3
+476,India,3
+477,United States,0
+478,United States,2
+479,United States,0
+480,United States,1
+481,Japan,1
+482,Taiwan,2
+483,Canada,0
+484,United States,0
+485,France,0
+486,United Kingdom,2
+487,Japan,2
+488,Germany,2
+489,United States,0
+490,United States,0
+491,United States,1
+492,United States,2
+493,United States,0
+494,Qatar,1
+495,Germany,1
+496,Qatar,3
+497,Germany,3
+498,United States,0
+499,Italy,4
+500,United States,5
+501,Argentina,1
+502,Australia,1
+503,United States,2
+504,France,5
+505,United States,1
+506,Republic of,2
+507,Canada,2
+508,United States,2
+509,United States,2
+510,United  Kingdom,2
+511,United States,1
+512,Japan,1
+513,United States,0
+514,United Kingdom,2
+515,United States,2
+516,Japan,2
+517,United States,3
+518,United States,1
+519,United States,2
+520,Sweden,1
+521,United States,0
+522,United States,2
+523,United States,3
+524,Japan,3
+525,Italy,3
+526,United States,1
+527,United States,1
+528,United States,3
+529,United States,0
+530,Israel,2
+531,United States,0
+532,United States,4
+533,United States,3
+534,United States,0
+535,Italy,0
+536,Sweden,2
+537,United States,1
+538,Republic of,0
+539,Israel,2
+540,Spain,2
+541,Ireland,1
+542,United States,1
+543,United States,2
+544,United States,2
+545,United States,5
+546,Ireland,5
+547,United States,1
+548,Taiwan,2
+549,United States,3
+550,United Kingdom,0
+551,United States,0
+552,United States,4
+553,Russian Federation,2
+554,Hungary,2
+555,India,0
+556,Canada,1
+557,United States,2
+558,United States,4
+559,Finland,2
+560,France,2
+561,United Kingdom,2
+562,United States,2
+563,United Kingdom,1
+564,United States,2
+565,United States,1
+566,United States,1
+567,United States,3
+568,United States,1
+569,United States,2
+570,Japan,1
+571,United States,5
+572,United States,0
+573,United States,3
+574,United States,1
+575,Italy,1
+576,United States,1
+577,United States,1
+578,United States,2
+579,United States,0
+580,Republic of,0
+581,Republic of,4
+582,United Kingdom,0
+583,Nigeria,0
+584,Japan,1
+585,Germany,1
+586,Mongolia,1
+587,Mexico,3
+588,Republic of,0
+589,Kuwait,3
+590,India,3
+591,United States,3
+592,United States,3
+593,France,3
+594,Canada,0
+595,Japan,3
+596,India,1
+597,United States,1
+598,United States,2
+599,United States,1
+600,United States,2
+601,United States,1
+602,Germany,3
+603,Mexico,3
+604,United States,2
+605,United States,2
+606,United States,0
+607,Russian Federation,0
+608,United Kingdom,2
+609,Canada,2
+610,United States,2
+611,United States,0
+612,United States,0
+613,Canada,0
+614,United  Kingdom,0
+615,United States,0
+616,United States,0
+617,United States,1
+618,Russian Federation,2
+619,United States,1
+620,China,1
+621,United Kingdom,0
+622,United States,0
+623,Germany,0
+624,United Kingdom,2
+625,United  Kingdom,2
+626,United Kingdom,1
+627,Italy,1
+628,Denmark,1
+629,Saudi  Arabia,0
+630,Germany,0
+631,Algeria,0
+632,France,0
+633,United States,2
+634,United States,5
+635,United States,0
+636,Germany,0
+637,New Zealand,2
+638,Germany,2
+639,Canada,0
+640,United States,2
+641,United Kingdom,0
+642,United States,2
+643,United States,2
+644,Canada,2
+645,United States,2
+646,United States,2
+647,Canada,0
+648,Denmark,0
+649,France,0
+650,Germany,1
+651,United States,0
+652,United States,5
+653,Canada,0
+654,United States,0
+655,United States,4
+656,Germany,1
+657,Brazil,7
+658,Germany,6
+659,United States,3
+660,United States,2
+661,Turkey,2
+662,Republic of,1
+663,Taiwan,4
+664,United States,1
+665,Morocco,2
+666,France,2
+667,Kuwait,6
+668,Australia,3
+669,Japan,0
+670,United States,4
+671,China,4
+672,Nigeria,2
+673,China,3
+674,Georgia,5
+675,Sweden,8
+676,United States,0
+677,Canada,0
+678,Brazil,0
+679,Mexico,0
+680,United States,2
+681,United States,2
+682,Australia,2
+683,United States,0
+684,Australia,1
+685,Brazil,0
+686,United States,3
+687,United States,3
+688,Nepal,3
+689,United States,3
+690,Republic of,5
+691,United Kingdom,0
+692,Germany,0
+693,United States,3
+694,China,3
+695,Japan,4
+696,United States,2
+697,United States,7
+698,United States,2
+699,Canada,4
+700,United States,6
+701,United States,1
+702,United States,10
+703,United States,2
+704,United States,2
+705,Argentina,2
+706,United Kingdom,0
+707,Italy,2
+708,Australia,6
+709,United States,9
+710,Chile,4
+711,Chile,5
+712,United States,4
+713,United States,2
+714,United States,6
+715,Mexico,6
+716,United States,4
+717,United States,5
+718,United States,4
+719,United States,3
+720,Japan,3
+721,Mexico,0
+722,United States,5
+723,United States,2
+724,United States,2
+725,Canada,3
+726,Mexico,2
+727,United States,5
+728,Canada,7
+729,United States,6
+730,Taiwan,6
+731,Switzerland,2
+732,United Kingdom,2
+733,Germany,2
+734,United States,8
+735,United States,3
+736,United States,3
+737,Beth Israel Deaconess Med. Center,3
+738,United States,0
+739,United States,1
+740,United States,0
+741,Poland,2
+742,Poland,0
+743,Republic of,3
+744,Sweden,2
+745,United States,0
+746,Spain,0
+747,Mexico,2
+748,United States,0
+749,United Kingdom,0
+750,United States,0
+751,United States,3
+752,United States,2
+753,China,2
+754,United States,5
+755,Germany,2
+756,United Kingdom,2
+757,United States,2
+758,Italy,2
+759,United States,2
+760,Germany,0
+761,Hungary,3
+762,Netherlands,3
+763,Republic of,0
+764,Japan,1
+765,Russian Federation,1
+766,Mexico,1
+767,United States,4
+768,Republic of,0
+769,United States,3
+770,United States,2
+771,Republic of,2
+772,United States,3
+773,China,3
+774,India,2
+775,United States,4
+776,United States,0
+777,Hong Kong,0
+778,United States,2
+779,United States,2
+780,United States,2
+781,United States,1
+782,United States,0
+783,Japan,0
+784,Japan,4
+785,Spain,0
+786,France,1
+787,United States,1
+788,Denmark,1
+789,France,2
+790,United States,0
+791,United States,3
+792,United States,2
+793,United States,2
+794,United States,1
+795,Denmark,2
+796,United States,2
+797,United States,3
+798,Taiwan,1
+799,United States,1
+800,China,1
+801,France,2
+802,United Kingdom,6
+803,United States,6
+804,United States,2
+805,Switzerland,3
+806,United States,3
+807,Japan,2
+808,United States,8
+809,United States,3
+810,United States,4
+811,United States,3
+812,Japan,3
+813,Mexico,2
+814,United States,6
+815,United States,2
+816,United States,1
+817,United Kingdom,2
+818,Germany,2
+819,Mexico,2
+820,United States,2
+821,United States,3
+822,Puerto Rico,3
+823,United States,2
+824,China,2
+825,United States,6
+826,United States,1
+827,United Kingdom,5
+828,United States,5
+829,United States,3
+830,China,3
+831,United States,2
+832,United States,1
+833,United States,6
+834,Japan,4
+835,United States,2
+836,United States,1
+837,Switzerland,2
+838,United Kingdom,4
+839,Australia,0
+840,Hungary,0
+841,United States,2
+842,Austria,2
+843,United States,0
+844,Norway,0
+845,Italy,1
+846,United States,2
+847,United States,2
+848,France,2
+849,Canada,0
+850,United States,0
+851,United States,1
+852,Hungary,1
+853,United States,4
+854,Hungary,4
+855,United Kingdom,2
+856,Germany,2
+857,United States,2
+858,United States,0
+859,Canada,3
+860,Netherlands,3
+861,Italy,3
+862,United States,3
+863,Belgium,3
+864,Sweden,3
+865,Germany,3
+866,Switzerland,3
+867,Poland,3
+868,Switzerland,3
+869,Japan,3
+870,United States,0
+871,United States,0
+872,United States,2
+873,United States,2
+874,United States,2
+875,Japan,2
+876,United Kingdom,2
+877,United States,2
+878,Germany,2
+879,United States,1
+880,Canada,0
+881,Canada,1
+882,United States,5
+883,United States,6
+884,United States,1
+885,Canada,3
+886,Canada,3
+887,Canada,2
+888,Canada,3
+889,Republic of,2
+890,Mexico,3
+891,United States,2
+892,United States,1
+893,Italy,1
+894,United States,7
+895,Australia,4
+896,United States,7
+897,Bangladesh,7
+898,United States,3
+899,United States,2
+900,United States,2
+901,Netherlands,1
+902,Australia,1
+903,Republic of,2
+904,United States,4
+905,U1028,4
+906,France,4
+907,United States,3
+908,United States,1
+909,United States,0
+910,United States,2
+911,Spain,2
+912,United States,4
+913,China,3
+914,United States,3
+915,United States,0
+916,Spain,0
+917,United States,3
+918,United States,1
+919,Canada,2
+920,Belgium,2
+921,United States,2
+922,Republic of,2
+923,United States,2
+924,United States,5
+925,Mexico,4
+926,United States,7
+927,United States,2
+928,Canada,3
+929,United States,1
+930,Netherlands,1
+931,Italy,1
+932,Italy,3
+933,Germany,0
+934,Republic of,5
+935,United States,4
+936,Republic of,2
+937,United States,1
+938,Republic  of,4
+939,Republic of,4
+940,Republic of,0
+941,United States,2
+942,United States,3
+943,United States,1
+944,United States,3
+945,Czech Republic,2
+946,United States,1
+947,United States,1
+948,United States,0
+949,Germany,0
+950,United States,1
+951,Republic of,1
+952,New Zealand,3
+953,United States,2
+954,Italy,2
+955,United States,3
+956,Japan,0
+957,United Kingdom,4
+958,United States,4
+959,Mexico,7
+960,United States,3
+961,United States,1
+962,Brazil,5
+963,United States,2
+964,United States,2
+965,United States,3
+966,India,3
+967,United States,2
+968,United States,3
+969,United States,3
+970,United States,11
+971,Sweden,3
+972,United States,2
+973,United States,5
+974,United States,2
+975,United States,20
+976,United States,7
+977,United States,3
+978,United States,3
+979,Republic of,3
+980,United States,7
+981,United States,5
+982,United States,2
+983,United States,6
+984,Japan,6
+985,Japan,2
+986,United States,7
+987,United States,7
+988,Mexico,7
+989,Canada,4
+990,United States,9
+991,United States,9
+992,United States,7
+993,United States,3
+994,United States,2
+995,United States,8
+996,United States,0
+997,United States,7
+998,United States,11
+999,United States,8
+1000,United States,14
+1001,United States,5
+1002,United States,3
+1003,United States,2
+1004,United States,5
+1005,Canada,2
+1006,United States,2
+1007,United States,1
+1008,United States,0
+1009,United States,1
+1010,Australia,0
+1011,United States,0
+1012,United States,5
+1013,United States,4
+1014,United States,2
+1015,United States,1
+1016,United Kingdom,1
+1017,Italy,3
+1018,Taiwan,0
+1019,United Kingdom,1
+1020,Sweden,1
+1021,Italy,1
+1022,Malta,1
+1023,United States,0
+1024,United States,1
+1025,United States,2
+1026,United Kingdom,1
+1027,United States,0
+1028,United States,3
+1029,United States,3
+1030,United States,0
+1031,United Kingdom,2
+1032,United States,2
+1033,United States,4
+1034,India,2
+1035,United Kingdom,3
+1036,Netherlands,3
+1037,Italy,3
+1038,Japan,0
+1039,United States,3
+1040,United States,2
+1041,United Kingdom,4
+1042,Italy,4
+1043,United  Kingdom,4
+1044,United States,1
+1045,United States,3
+1046,Japan,3
+1047,United States,1
+1048,Japan,5
+1049,United States,0
+1050,China,0
+1051,Brazil,1
+1052,United States,0
+1053,Germany,2
+1054,United States,2
+1055,Germany,2
+1056,United States,4
+1057,United States,3
+1058,Mexico,2
+1059,United States,2
+1060,Australia,3
+1061,United States,1
+1062,United States,0
+1063,United States,0
+1064,United States,1
+1065,Japan,2
+1066,Germany,0
+1067,United States,4
+1068,United States,1
+1069,United States,0
+1070,United States,0
+1071,United States,4
+1072,United States,2
+1073,United States,4
+1074,Brazil,3
+1075,Brazil,3
+1076,Brazil,5
+1077,United States,3
+1078,Italy,2
+1079,Mexico,2
+1080,United States,1
+1081,United States,0
+1082,Japan,2
+1083,Poland,2
+1084,Mexico,1
+1085,Brazil,4
+1086,Italy,4
+1087,United States,2
+1088,United States,3
+1089,United States,0
+1090,United States,3
+1091,United States,2
+1092,United States,0
+1093,Canada,2
+1094,Italy,2
+1095,Taiwan,1
+1096,United States,2
+1097,United States,0
+1098,United States,4
+1099,France,2
+1100,United States,1
+1101,United States,2
+1102,United States,2
+1103,United States,0
+1104,United States,2
+1105,United States,2
+1106,United States,2
+1107,United States,2
+1108,Taiwan,2
+1109,United States,3
+1110,United States,0
+1111,United States,3
+1112,United States,3
+1113,United States,7
+1114,United States,2
+1115,Islamic Republic of,2
+1116,United States,2
+1117,United States,5
+1118,United States,0
+1119,United States,1
+1120,United States,1
+1121,Australia,3
+1122,United States,2
+1123,China,2
+1124,United States,2
+1125,Republic of,1
+1126,United States,2
+1127,United States,0
+1128,United Kingdom,2
+1129,United States,4
+1130,United States,4
+1131,Japan,1
+1132,United States,4
+1133,United Kingdom,1
+1134,United States,1
+1135,United States,2
+1136,China,0
+1137,United States,4
+1138,Republic of,4
+1139,Canada,3
+1140,United States,3
+1141,Republic of,0
+1142,United States,7
+1143,United States,3
+1144,United States,2
+1145,United States,0
+1146,United States,2
+1147,United States,3
+1148,United States,0
+1149,United States,2
+1150,United States,7
+1151,United States,2
+1152,United States,2
+1153,United States,0
+1154,United States,1
+1155,United States,0
+1156,United States,0
+1157,United States,3
+1158,United States,2
+1159,Mexico,2
+1160,Canada,2
+1161,Brazil,2
+1162,United States,2
+1163,Canada,2
+1164,Canada,3
+1165,United States,3
+1166,United States,0
+1167,Sweden,2
+1168,France,2
+1169,United States,2
+1170,United States,3
+1171,United States,6
+1172,Sweden,2
+1173,France,2
+1174,United States,2
+1175,United States,2
+1176,China,3
+1177,United States,2
+1178,United States,2
+1179,United States,1
+1180,France,2
+1181,Canada,0
+1182,United States,3
+1183,Japan,2
+1184,United States,1
+1185,United States,3
+1186,United States,3
+1187,United States,3
+1188,United States,2
+1189,China,2
+1190,United States,3
+1191,United States,0
+1192,United States,0
+1193,United States,2
+1194,United States,0
+1195,United States,2
+1196,United States,3
+1197,United States,8
+1198,China,8
+1199,United States,12
+1200,United States,6
+1201,Netherlands,6
+1202,Germany,6
+1203,United States,2
+1204,United States,4
+1205,Germany,4
+1206,United States,8
+1207,United States,4
+1208,United States,3
+1209,United States,6
+1210,Netherlands,6
+1211,United Kingdom,5
+1212,United States,1
+1213,United Kingdom,4
+1214,France,4
+1215,United States,6
+1216,United States,1
+1217,United States,0
+1218,United States,0
+1219,Hungary,0
+1220,United States,2
+1221,Netherlands,2
+1222,United States,7
+1223,United States,1
+1224,Mexico,2
+1225,United States,1
+1226,United States,2
+1227,Mexico,2
+1228,Mexico,3
+1229,United States,3
+1230,Australia,3
+1231,Germany,3
+1232,United States,4
+1233,United States,0
+1234,Denmark,2
+1235,New Zealand,2
+1236,United States,2
+1237,United States,5
+1238,Chinese Acad. of Sciences,4
+1239,China,4
+1240,United States,2
+1241,United States,5
+1242,United States,4
+1243,China,4
+1244,United States,7
+1245,Nigeria,1
+1246,Argentina,2
+1247,United States,4
+1248,Canada,4
+1249,Canada,2
+1250,Canada,2
+1251,Canada,2
+1252,Canada,6
+1253,Canada,5
+1254,Spain,4
+1255,United States,2
+1256,Spain,11
+1257,India,3
+1258,United States,1
+1259,United States,0
+1260,United States,7
+1261,United States,6
+1262,Australia,6
+1263,United States,7
+1264,United States,0
+1265,United States,4
+1266,Switzerland,2
+1267,United States,4
+1268,Japan,2
+1269,United States,0
+1270,Japan,5
+1271,United States,1
+1272,United States,2
+1273,United States,0
+1274,United States,3
+1275,United States,0
+1276,United States,1
+1277,United States,3
+1278,United States,6
+1279,United Kingdom,0
+1280,United States,0
+1281,United States,3
+1282,United Kingdom,0
+1283,United States,0
+1284,Sweden,1
+1285,Japan,2
+1286,Belgium,0
+1287,United States,3
+1288,United Kingdom,2
+1289,Portugal,2
+1290,China,5
+1291,United States,2
+1292,Ireland,2
+1293,China,3
+1294,China,7
+1295,Portugal,3
+1296,Portugal,2
+1297,United States,3
+1298,Ireland,6
+1299,United States,4
+1300,Canada,6
+1301,United States,1
+1302,United States,3
+1303,United States,0
+1304,United States,1
+1305,United States,4
+1306,Denmark,4
+1307,United Kingdom,3
+1308,Italy,0
+1309,Spain,0
+1310,United States,2
+1311,United States,1
+1312,Canada,2
+1313,Mexico,3
+1314,United Kingdom,0
+1315,Ireland,0
+1316,United States,2
+1317,United States,2
+1318,Mexico,2
+1319,Japan,0
+1320,United Kingdom,3
+1321,United States,10
+1322,Turkey,3
+1323,United States,10
+1324,United States,9
+1325,United States,1
+1326,United States,9
+1327,Republic of,8
+1328,Taiwan,4
+1329,United States,6
+1330,United States,7
+1331,United States,10
+1332,Canada,2
+1333,China,2
+1334,United States,0
+1335,United States,2
+1336,United States,0
+1337,United States,0
+1338,United States,0
+1339,Japan,0
+1340,Australia,1
+1341,United States,1
+1342,Australia,1
+1343,United States,0
+1344,United States,0
+1345,Japan,0
+1346,United States,0
+1347,United States,0
+1348,Japan,0
+1349,United Kingdom,2
+1350,United  Kingdom,2
+1351,United States,0
+1352,Australia,0
+1353,United States,0
+1354,Argentina,0
+1355,United Kingdom,0
+1356,Germany,0
+1357,Canada,1
+1358,United States,1
+1359,United States,1
+1360,Japan,0
+1361,United States,0
+1362,Singapore,0
+1363,Japan,0
+1364,Hong Kong,3
+1365,United States,1
+1366,United Kingdom,1
+1367,United  Kingdom,1
+1368,United Kingdom,0
+1369,United States,2
+1370,United States,0
+1371,India,5
+1372,Germany,4
+1373,United States,1
+1374,United States,3
+1375,United States,1
+1376,Italy,1
+1377,Italy,3
+1378,Germany,3
+1379,United States,2
+1380,United States,2
+1381,United Kingdom,2
+1382,United States,2
+1383,United Kingdom,0
+1384,United States,1
+1385,Germany,2
+1386,United States,4
+1387,Japan,0
+1388,United States,9
+1389,United States,1
+1390,United States,5
+1391,Switzerland,3
+1392,United States,3
+1393,Switzerland,8
+1394,Germany,8
+1395,United States,5
+1396,United States,9
+1397,United States,7
+1398,China,7
+1399,United States,6
+1400,Japan,3
+1401,United States,4
+1402,United States,0
+1403,United States,0
+1404,France,0
+1405,Denmark,1
+1406,United States,7
+1407,Japan,3
+1408,Finland,3
+1409,Japan,3
+1410,United States,5
+1411,Netherlands,5
+1412,United States,0
+1413,Italy,0
+1414,United States,2
+1415,United States,4
+1416,United States,2
+1417,United States,1
+1418,United States,2
+1419,United States,3
+1420,United States,2
+1421,Japan,2
+1422,Japan,4
+1423,United Kingdom,2
+1424,United States,2
+1425,Germany,2
+1426,United States,3
+1427,United States,2
+1428,United States,2
+1429,United States,2
+1430,United States,3
+1431,France,3
+1432,Australia,4
+1433,Germany,4
+1434,United States,3
+1435,United States,2
+1436,Spain,2
+1437,United States,1
+1438,Japan,1
+1439,United States,3
+1440,United States,2
+1441,United States,2
+1442,United States,3
+1443,United States,0
+1444,Canada,1
+1445,China,0
+1446,China,1
+1447,China,3
+1448,United Kingdom,5
+1449,Republic of,5
+1450,United States,2
+1451,United States,2
+1452,United States,0
+1453,United States,3
+1454,United Kingdom,5
+1455,Finland,5
+1456,United States,3
+1457,United Kingdom,6
+1458,United States,2
+1459,United States,2
+1460,United States,3
+1461,United States,1
+1462,Italy,1
+1463,United States,2
+1464,France,2
+1465,United States,2
+1466,United States,2
+1467,Republic of,2
+1468,Norway,2
+1469,United States,4
+1470,India,6
+1471,India,2
+1472,Switzerland,0
+1473,India,0
+1474,United States,1
+1475,India,1
+1476,India,0
+1477,Austria,3
+1478,China,0
+1479,New Zealand,0
+1480,United States,1
+1481,United Kingdom,5
+1482,Netherlands,1
+1483,Belgium,4
+1484,United Kingdom,0
+1485,United States,1
+1486,United States,2
+1487,United States,3
+1488,United States,5
+1489,United Kingdom,5
+1490,Netherlands,5
+1491,France,5
+1492,United States,2
+1493,United States,4
+1494,United States,3
+1495,Belgium,1
+1496,United States,1
+1497,France,1
+1498,Netherlands,2
+1499,Switzerland,2
+1500,Czech Republic,2
+1501,Israel,2
+1502,United States,1
+1503,Germany,2
+1504,United States,3
+1505,France,3
+1506,United States,6
+1507,United States,4
+1508,Japan,3
+1509,Japan,3
+1510,United States,3
+1511,United States,0
+1512,United States,0
+1513,United States,2
+1514,Italy,2
+1515,United States,0
+1516,China,1
+1517,Italy,0
+1518,United States,3
+1519,United States,3
+1520,United States,1
+1521,United Kingdom,0
+1522,France,0
+1523,United States,4
+1524,United States,0
+1525,Hong Kong,4
+1526,Australia,1
+1527,United States,3
+1528,Canada,2
+1529,United Kingdom,2
+1530,Japan,0
+1531,United States,7
+1532,United States,5
+1533,Japan,3
+1534,United States,3
+1535,United States,4
+1536,Germany,7
+1537,United States,2
+1538,United States,6
+1539,United States,3
+1540,United States,1
+1541,United Kingdom,4
+1542,United States,0
+1543,United States,2
+1544,Netherlands,2
+1545,Netherlands,0
+1546,United States,2
+1547,United States,2
+1548,United States,3
+1549,United States,4
+1550,Canada,3
+1551,United States,2
+1552,United States,1
+1553,China,1
+1554,United States,3
+1555,France,3
+1556,United States,0
+1557,Netherlands,0
+1558,Canada,3
+1559,United States,4
+1560,China,4
+1561,United States,2
+1562,United States,4
+1563,Denmark,4
+1564,Netherlands,4
+1565,Germany,4
+1566,Switzerland,4
+1567,United States,0
+1568,United States,5
+1569,United States,0
+1570,Canada,3
+1571,China,0
+1572,Republic of,5
+1573,United States,0
+1574,United Kingdom,0
+1575,United States,3
+1576,United States,3
+1577,United States,2
+1578,United States,4
+1579,United States,0
+1580,United States,3
+1581,United States,0
+1582,Netherlands,0
+1583,Luxembourg,0
+1584,Taiwan,2
+1585,Brazil,1
+1586,Canada,1
+1587,Brazil,0
+1588,United States,1
+1589,China,3
+1590,United States,2
+1591,United States,2
+1592,Austria,2
+1593,Japan,6
+1594,Japan,1
+1595,Canada,8
+1596,United States,8
+1597,France,8
+1598,Brazil,8
+1599,United States,8
+1600,Japan,3
+1601,United States,2
+1602,United Kingdom,9
+1603,United States,6
+1604,Japan,6
+1605,United States,7
+1606,Japan,7
+1607,United States,6
+1608,United States,5
+1609,United States,0
+1610,Canada,2
+1611,United States,2
+1612,Germany,2
+1613,United Kingdom,1
+1614,United States,2
+1615,United States,0
+1616,United States,0
+1617,Japan,2
+1618,Canada,0
+1619,Spain,0
+1620,Japan,1
+1621,Spain,1
+1622,United States,2
+1623,United States,2
+1624,United States,5
+1625,Germany,0
+1626,United States,0
+1627,Germany,0
+1628,United States,1
+1629,Canada,6
+1630,United States,2
+1631,United States,4
+1632,Swaziland,4
+1633,United States,3
+1634,Italy,2
+1635,Japan,0
+1636,Japan,5
+1637,United States,1
+1638,United Kingdom,4
+1639,United States,4
+1640,United Kingdom,6
+1641,United States,1
+1642,Canada,2
+1643,United States,3
+1644,Spain,2
+1645,Canada,1
+1646,India,1
+1647,Republic of,0
+1648,United States,0
+1649,United States,0
+1650,United States,4
+1651,Mexico,0
+1652,Canada,2
+1653,Canada,1
+1654,United States,3
+1655,United States,0
+1656,United States,0
+1657,United States,2
+1658,Mexico,2
+1659,United States,5
+1660,Germany,2
+1661,United States,2
+1662,United States,8
+1663,Italy,8
+1664,United States,2
+1665,United States,2
+1666,United States,3
+1667,Canada,4
+1668,Canada,2
+1669,Italy,2
+1670,Israel,0
+1671,United States,2
+1672,Japan,4
+1673,United States,1
+1674,Germany,2
+1675,United States,2
+1676,Germany,2
+1677,United States,3
+1678,United States,5
+1679,United States,5
+1680,Turkey,2
+1681,Belgium,2
+1682,Germany,2
+1683,Italy,2
+1684,Spain,2
+1685,Turkey,4
+1686,United States,4
+1687,Japan,2
+1688,Italy,2
+1689,United States,6
+1690,Japan,2
+1691,United States,5
+1692,India,9
+1693,United States,7
+1694,Germany,7
+1695,France,7
+1696,United States,1
+1697,United States,4
+1698,United States,3
+1699,Canada,1
+1700,Portugal,1
+1701,United States,3
+1702,Germany,2
+1703,United States,5
+1704,United States,0
+1705,Germany,1
+1706,Germany,3
+1707,United States,3
+1708,United States,0
+1709,United States,3
+1710,United States,0
+1711,United States,1
+1712,United States,0
+1713,United States,2
+1714,United States,3
+1715,Brazil,3
+1716,United States,0
+1717,United States,0
+1718,Switzerland,0
+1719,United States,0
+1720,United States,6
+1721,United States,3
+1722,China,3
+1723,United States,4
+1724,United States,5
+1725,United States,2
+1726,Islamic  Republic of,1
+1727,Islamic Republic of,1
+1728,United States,3
+1729,Hong Kong,3
+1730,United States,2
+1731,China,2
+1732,United States,6
+1733,China,6
+1734,Portugal,2
+1735,United Kingdom,1
+1736,United States,1
+1737,United  Kingdom,1
+1738,United Kingdom,1
+1739,United States,1
+1740,Netherlands,1
+1741,Canada,2
+1742,United Kingdom,2
+1743,United States,2
+1744,Netherlands,2
+1745,Finland,2
+1746,Spain,2
+1747,Ireland,2
+1748,United States,1
+1749,United States,4
+1750,Czech Republic,2
+1751,United States,2
+1752,United States,13
+1753,Germany,1
+1754,United States,2
+1755,United States,3
+1756,United States,5
+1757,United States,8
+1758,Japan,4
+1759,Japan,2
+1760,United States,3
+1761,United States,1
+1762,Brazil,5
+1763,Brazil,1
+1764,United States,1
+1765,United States,2
+1766,Canada,3
+1767,United States,2
+1768,Japan,3
+1769,United States,2
+1770,United States,3
+1771,Japan,3
+1772,United States,2
+1773,Switzerland,5
+1774,United States,5
+1775,United States,4
+1776,United States,3
+1777,Japan,3
+1778,United States,1
+1779,United States,2
+1780,United States,0
+1781,United States,0
+1782,United States,4
+1783,United States,5
+1784,India,4
+1785,United States,2
+1786,United States,0
+1787,Italy,0
+1788,Canada,1
+1789,Israel,1
+1790,Singapore,1
+1791,United States,4
+1792,United States,2
+1793,United States,1
+1794,United States,2
+1795,United States,2
+1796,Canada,5
+1797,United States,5
+1798,Democratic People's  Republic of,5
+1799,United States,3
+1800,Republic of,3
+1801,United States,2
+1802,Ecuador,1
+1803,Japan,5
+1804,United States,2
+1805,United States,3
+1806,Germany,3
+1807,Singapore,3
+1808,United States,2
+1809,United States,0
+1810,Italy,2
+1811,Canada,4
+1812,United States,2
+1813,United States,1
+1814,United States,2
+1815,United States,0
+1816,United States,2
+1817,United States,3
+1818,Singapore,3
+1819,Japan,0
+1820,Netherlands,2
+1821,Germany,2
+1822,Canada,1
+1823,Brazil,1
+1824,United States,2
+1825,United Kingdom,2
+1826,Japan,3
+1827,United States,1
+1828,United States,0
+1829,United States,3
+1830,Republic of,3
+1831,Japan,4
+1832,Canada,5
+1833,United States,3
+1834,Canada,0
+1835,United States,0
+1836,Mexico,3
+1837,United States,3
+1838,Japan,0
+1839,United States,3
+1840,Canada,2
+1841,United States,2
+1842,Mexico,2
+1843,Canada,3
+1844,Israel,1
+1845,Italy,1
+1846,United States,2
+1847,Japan,2
+1848,United States,5
+1849,United States,2
+1850,United States,1
+1851,United States,0
+1852,China,0
+1853,United States,2
+1854,United States,4
+1855,United States,2
+1856,United States,1
+1857,Luxembourg,0
+1858,United States,1
+1859,United States,3
+1860,United States,1
+1861,United States,0
+1862,Germany,2
+1863,United States,1
+1864,United States,2
+1865,Republic of,0
+1866,Japan,1
+1867,United States,4
+1868,United States,7
+1869,United States,0
+1870,Russian Federation,1
+1871,United States,1
+1872,Russian  Federation,1
+1873,Brazil,0
+1874,United Kingdom,3
+1875,United States,3
+1876,Mexico,2
+1877,United States,2
+1878,United States,4
+1879,United States,3
+1880,United States,2
+1881,United States,2
+1882,United States,2
+1883,United States,2
+1884,Switzerland,1
+1885,Russian Federation,1
+1886,United States,0
+1887,Japan,4
+1888,Denmark,2
+1889,United States,3
+1890,Australia,0
+1891,United States,3
+1892,Spain,3
+1893,United States,2
+1894,Germany,0
+1895,United States,7
+1896,China,2
+1897,United Kingdom,7
+1898,United States,3
+1899,United States,2
+1900,United States,1
+1901,China,1
+1902,United States,2
+1903,United States,2
+1904,United States,1
+1905,United States,0
+1906,United States,3
+1907,United States,4
+1908,United States,0
+1909,United States,1
+1910,United States,3
+1911,Germany,4
+1912,United States,0
+1913,Germany,2
+1914,United States,2
+1915,United States,5
+1916,Netherlands,0
+1917,United States,2
+1918,United States,0
+1919,United States,2
+1920,United States,4
+1921,Denmark,4
+1922,United States,2
+1923,United States,3
+1924,United Kingdom,2
+1925,United States,4
+1926,Germany,4
+1927,United States,1
+1928,United States,4
+1929,Japan,4
+1930,Canada,2
+1931,Canada,4
+1932,United States,0
+1933,United States,1
+1934,Germany,1
+1935,United States,3
+1936,United States,3
+1937,United States,0
+1938,United States,2
+1939,Argentina,2
+1940,Japan,1
+1941,France,1
+1942,Taiwan,0
+1943,United Kingdom,2
+1944,China,2
+1945,Brazil,1
+1946,Germany,1
+1947,United States,3
+1948,United States,1
+1949,United States,2
+1950,United Kingdom,2
+1951,United States,3
+1952,United States,3
+1953,Denmark,3
+1954,United States,3
+1955,United States,0
+1956,Japan,0
+1957,United States,4
+1958,Finland,0
+1959,United States,0
+1960,United States,2
+1961,Japan,7
+1962,China,1
+1963,United States,0
+1964,Japan,2
+1965,United States,5
+1966,Hong Kong,0
+1967,United States,2
+1968,United States,0
+1969,United States,1
+1970,United States,4
+1971,United States,2
+1972,Italy,2
+1973,United States,0
+1974,Macao,2
+1975,Switzerland,2
+1976,Saudi Arabia,2
+1977,Australia,2
+1978,United States,2
+1979,United States,4
+1980,Germany,0
+1981,Chile,0
+1982,Mexico,1
+1983,United States,0
+1984,China,0
+1985,United States,2
+1986,Sweden,1
+1987,Chile,0
+1988,United States,1
+1989,United States,1
+1990,Canada,2
+1991,Japan,2
+1992,United States,0
+1993,United States,3
+1994,United States,1
+1995,Chile,0
+1996,United States,2
+1997,United States,2
+1998,Mexico,0
+1999,Germany,2
+2000,United States,2
+2001,Germany,2
+2002,United States,0
+2003,United States,0
+2004,Republic of,0
+2005,United States,2
+2006,Germany,2
+2007,United States,0
+2008,Chile,0
+2009,Republic of,4
+2010,Kuwait,2
+2011,Saudi Arabia,2
+2012,Italy,2
+2013,United Kingdom,1
+2014,United States,1
+2015,Canada,3
+2016,United States,3
+2017,United States,2
+2018,United States,1
+2019,United States,0
+2020,Ukraine,0
+2021,United States,0
+2022,United States,3
+2023,United States,4
+2024,United States,0
+2025,Portugal,3
+2026,France,3
+2027,United States,2
+2028,United States,2
+2029,United States,2
+2030,Japan,2
+2031,United States,5
+2032,United Kingdom,2
+2033,United States,2
+2034,Portugal,2
+2035,United States,1
+2036,United States,2
+2037,United States,2
+2038,United States,2
+2039,New Zealand,0
+2040,Canada,3
+2041,United States,4
+2042,United States,2
+2043,China,2
+2044,Republic of,4
+2045,United States,2
+2046,Saudi Arabia,2
+2047,Italy,2
+2048,United States,5
+2049,United States,3
+2050,United Kingdom,2
+2051,Brazil,0
+2052,United States,2
+2053,United Kingdom,2
+2054,Canada,3
+2055,Canada,3
+2056,United States,0
+2057,Norway,2
+2058,United Kingdom,4
+2059,United States,2
+2060,India,1
+2061,France,1
+2062,Russian Federation,3
+2063,United States,3
+2064,France,3
+2065,Japan,1
+2066,Republic of,4
+2067,United States,4
+2068,United States,3
+2069,United States,3
+2070,United States,3
+2071,United States,2
+2072,United States,3
+2073,Romania,2
+2074,United Kingdom,1
+2075,United Kingdom,2
+2076,Italy,2
+2077,United States,2
+2078,United Kingdom,2
+2079,Germany,2
+2080,United States,2
+2081,Japan,2
+2082,Republic of,0
+2083,Italy,6
+2084,Spain,6
+2085,Italy,2
+2086,Spain,2
+2087,United States,0
+2088,China,0
+2089,Switzerland,5
+2090,Spain,5
+2091,Brazil,3
+2092,Italy,3
+2093,Spain,3
+2094,United States,9
+2095,United States,3
+2096,Israel,3
+2097,United States,8
+2098,United States,0
+2099,Hungary,0
+2100,United States,6
+2101,Hungary,6
+2102,United States,5
+2103,United States,12
+2104,Hungary,12
+2105,United States,11
+2106,Brazil,0
+2107,United States,6
+2108,Israel,6
+2109,Netherlands,6
+2110,China,6
+2111,United States,9
+2112,France,1
+2113,United States,3
+2114,United States,2
+2115,Hungary,2
+2116,United States,5
+2117,Canada,4
+2118,United States,4
+2119,United States,7
+2120,United States,6
+2121,United States,5
+2122,Germany,4
+2123,Israel,3
+2124,United States,4
+2125,United States,2
+2126,United States,2
+2127,Republic  of,3
+2128,United States,0
+2129,United States,1
+2130,United States,2
+2131,United Kingdom,2
+2132,United States,2
+2133,Japan,2
+2134,United States,4
+2135,United Kingdom,3
+2136,United States,3
+2137,India,3
+2138,Japan,2
+2139,France,2
+2140,Turkey,0
+2141,Germany,2
+2142,United States,2
+2143,Germany,6
+2144,United States,7
+2145,Canada,3
+2146,United States,3
+2147,United States,4
+2148,United States,2
+2149,United States,2
+2150,United Kingdom,2
+2151,United States,2
+2152,United States,2
+2153,United States,0
+2154,United States,3
+2155,Italy,2
+2156,United States,3
+2157,United States,0
+2158,United States,1
+2159,United States,3
+2160,Republic of,1
+2161,United States,1
+2162,United States,2
+2163,United States,4
+2164,United States,5
+2165,United States,2
+2166,United States,3
+2167,Canada,2
+2168,United States,2
+2169,United States,0
+2170,United States,2
+2171,Sweden,0
+2172,United States,2
+2173,United States,2
+2174,United Kingdom,2
+2175,United States,0
+2176,Japan,1
+2177,United Kingdom,3
+2178,United States,0
+2179,China,0
+2180,United States,2
+2181,United States,0
+2182,Poland,0
+2183,United States,1
+2184,United States,4
+2185,United States,2
+2186,United States,2
+2187,United States,8
+2188,United Arab Emirates,8
+2189,United States,3
+2190,United Kingdom,6
+2191,United States,6
+2192,United States,6
+2193,Italy,6
+2194,Germany,6
+2195,United States,2
+2196,United Kingdom,3
+2197,United States,3
+2198,United States,5
+2199,United States,3
+2200,United States,3
+2201,United States,2
+2202,United States,2
+2203,United States,3
+2204,United States,10
+2205,United States,6
+2206,United States,3
+2207,United States,9
+2208,United States,2
+2209,Canada,0
+2210,Singapore,2
+2211,United States,4
+2212,Australia,4
+2213,Brazil,0
+2214,Australia,3
+2215,United States,3
+2216,United States,2
+2217,Republic of,2
+2218,China,2
+2219,United States,2
+2220,United States,3
+2221,United States,5
+2222,Republic of,0
+2223,China,0
+2224,United States,7
+2225,United States,3
+2226,Portugal,4
+2227,United Kingdom,15
+2228,United States,15
+2229,United States,0
+2230,United States,6
+2231,Italy,6
+2232,United States,2
+2233,United States,4
+2234,Germany,4
+2235,United States,8
+2236,Germany,3
+2237,United States,1
+2238,United States,2
+2239,United States,1
+2240,United States,1
+2241,United States,2
+2242,Taiwan,2
+2243,France,2
+2244,United States,2
+2245,Israel,0
+2246,Germany,0
+2247,Mexico,1
+2248,France,2
+2249,Bolivarian Republic of,0
+2250,Republic of,0
+2251,United States,1
+2252,United States,2
+2253,United States,2
+2254,United States,2
+2255,Denmark,1
+2256,Sweden,1
+2257,France,0
+2258,United Kingdom,2
+2259,Germany,2
+2260,United Kingdom,0
+2261,Germany,4
+2262,United States,3
+2263,United States,8
+2264,Canada,2
+2265,United States,8
+2266,United States,4
+2267,United States,4
+2268,Italy,4
+2269,United States,11
+2270,United States,3
+2271,United States,4
+2272,United States,4
+2273,United States,7
+2274,United Kingdom,8
+2275,United States,8
+2276,United States,2
+2277,United States,0
+2278,United States,3
+2279,United States,2
+2280,United States,2
+2281,United Kingdom,5
+2282,United States,3
+2283,United States,0
+2284,Republic of,4
+2285,United States,3
+2286,United States,9
+2287,Finland,0
+2288,Germany,1
+2289,France,8
+2290,Japan,0
+2291,Norway,5
+2292,United States,5
+2293,United States,6
+2294,United States,2
+2295,Australia,3
+2296,Canada,5
+2297,China,5
+2298,France,3
+2299,United States,2
+2300,United Kingdom,2
+2301,United States,0
+2302,Republic of,0
+2303,United States,3
+2304,United States,3
+2305,Canada,3
+2306,India,3
+2307,United States,0
+2308,Germany,0
+2309,United States,3
+2310,United States,2
+2311,Norway,4
+2312,United States,3
+2313,China,2
+2314,China,3
+2315,Russian Federation,2
+2316,Russian Federation,2
+2317,United States,9
+2318,Russian Federation,2
+2319,Russian Federation,0
+2320,United States,6
+2321,Germany,6
+2322,United States,5
+2323,United States,6
+2324,United States,2
+2325,United States,3
+2326,United States,0
+2327,United States,1
+2328,United States,1
+2329,United States,1
+2330,United States,1
+2331,United States,2
+2332,Canada,2
+2333,Brazil,0
+2334,United States,2
+2335,United States,1
+2336,United States,3
+2337,United States,2
+2338,United States,5
+2339,France,5
+2340,United Kingdom,4
+2341,United States,3
+2342,France,3
+2343,Chile,3
+2344,Taiwan,0
+2345,United States,2
+2346,United States,1
+2347,Taiwan,1
+2348,United States,1
+2349,Japan,2
+2350,United States,3
+2351,Japan,1
+2352,United States,2
+2353,United Kingdom,8
+2354,United States,1
+2355,United States,4
+2356,Italy,4
+2357,United States,3
+2358,Japan,1
+2359,Spain,6
+2360,United States,4
+2361,Canada,3
+2362,Italy,3
+2363,Ireland,3
+2364,United States,3
+2365,United States,1
+2366,Canada,1
+2367,Canada,3
+2368,United States,3
+2369,France,3
+2370,United States,2
+2371,Germany,1
+2372,United States,2
+2373,Germany,2
+2374,United States,5
+2375,Germany,5
+2376,Germany,3
+2377,United States,2
+2378,China,2
+2379,United States,3
+2380,Norway,3
+2381,Austria,3
+2382,Serbia,3
+2383,Mexico,1
+2384,United States,1
+2385,China,1
+2386,United States,1
+2387,Italy,1
+2388,Italy,3
+2389,United States,5
+2390,Netherlands,2
+2391,Mexico,3
+2392,United Kingdom,4
+2393,Japan,2
+2394,United States,3
+2395,Germany,2
+2396,Germany,1
+2397,United States,8
+2398,United States,8
+2399,United States,2
+2400,Canada,6
+2401,United Kingdom,6
+2402,Norway,6
+2403,Italy,2
+2404,United States,7
+2405,Japan,0
+2406,Germany,3
+2407,Japan,1
+2408,Japan,2
+2409,United States,2
+2410,United States,10
+2411,Netherlands,7
+2412,India,3
+2413,Sweden,2
+2414,Canada,2
+2415,United States,2
+2416,Iceland,2
+2417,Austria,2
+2418,Norway,2
+2419,Mexico,2
+2420,United States,5
+2421,Switzerland,3
+2422,Canada,2
+2423,United States,3
+2424,Japan,3
+2425,Sweden,5
+2426,Canada,5
+2427,Germany,2
+2428,United Kingdom,1
+2429,India,5
+2430,Canada,3
+2431,Japan,0
+2432,Portugal,4
+2433,Israel,3
+2434,United States,1
+2435,Canada,1
+2436,United States,2
+2437,United States,3
+2438,Canada,2
+2439,Sweden,4
+2440,United States,3
+2441,Canada,0
+2442,United States,0
+2443,United States,0
+2444,United Kingdom,0
+2445,United Kingdom,2
+2446,Netherlands,3
+2447,United States,1
+2448,Netherlands,3
+2449,United States,0
+2450,Belgium,5
+2451,United Kingdom,5
+2452,United States,1
+2453,Canada,2
+2454,United Kingdom,2
+2455,United States,1
+2456,Germany,2
+2457,Germany,0
+2458,United Kingdom,2
+2459,Belgium,2
+2460,United States,3
+2461,United States,0
+2462,United States,2
+2463,United States,2
+2464,United States,3
+2465,United States,2
+2466,Canada,3
+2467,Japan,3
+2468,United States,2
+2469,United States,13
+2470,United States,3
+2471,United States,5
+2472,United States,2
+2473,United States,0
+2474,United States,2
+2475,Belgium,4
+2476,Netherlands,4
+2477,Germany,9
+2478,United States,3
+2479,Canada,4
+2480,United Kingdom,4
+2481,Canada,0
+2482,United States,3
+2483,Germany,2
+2484,Canada,2
+2485,United States,2
+2486,United States,3
+2487,United States,3
+2488,United States,2
+2489,United States,0
+2490,United States,0
+2491,Norway,1
+2492,Canada,1
+2493,Canada,1
+2494,Canada,2
+2495,United States,0
+2496,United States,5
+2497,United States,3
+2498,Canada,2
+2499,Canada,2
+2500,Japan,2
+2501,United States,0
+2502,United States,1
+2503,United States,2
+2504,United States,1
+2505,Canada,0
+2506,United States,2
+2507,United Kingdom,2
+2508,Germany,2
+2509,United States,5
+2510,Germany,2
+2511,Germany,2
+2512,Germany,5
+2513,Canada,2
+2514,United States,3
+2515,United States,4
+2516,United States,2
+2517,United States,2
+2518,Canada,2
+2519,United States,8
+2520,United States,2
+2521,United Kingdom,3
+2522,United States,0
+2523,Japan,0
+2524,United States,2
+2525,United States,3
+2526,China,3
+2527,United States,4
+2528,United States,2
+2529,United States,3
+2530,United States,4
+2531,United States,5
+2532,United States,1
+2533,United States,2
+2534,Canada,0
+2535,United States,0
+2536,France,0
+2537,United States,2
+2538,United States,3
+2539,United States,1
+2540,France,1
+2541,United States,4
+2542,Canada,0
+2543,Brazil,5
+2544,United States,5
+2545,United States,3
+2546,Canada,2
+2547,Switzerland,2
+2548,Italy,2
+2549,United States,3
+2550,Canada,7
+2551,United States,7
+2552,Russian Federation,2
+2553,United States,2
+2554,United States,3
+2555,Japan,4
+2556,United States,3
+2557,United States,2
+2558,United Kingdom,5
+2559,Canada,4
+2560,United States,3
+2561,Switzerland,2
+2562,United States,2
+2563,United States,1
+2564,United States,3
+2565,United States,2
+2566,United Kingdom,1
+2567,Germany,1
+2568,Belgium,3
+2569,United States,2
+2570,Netherlands,2
+2571,Germany,2
+2572,United States,1
+2573,Canada,1
+2574,United States,5
+2575,United States,2
+2576,Israel,2
+2577,Germany,2
+2578,United States,2
+2579,Japan,2
+2580,United States,2
+2581,United States,1
+2582,Japan,1
+2583,United States,1
+2584,Belgium,1
+2585,United States,1
+2586,United States,1
+2587,China,0
+2588,Australia,1
+2589,United States,3
+2590,United States,3
+2591,United States,1
+2592,United States,0
+2593,United States,2
+2594,Germany,1
+2595,Germany,0
+2596,United States,1
+2597,United States,2
+2598,Belgium,2
+2599,Japan,2
+2600,United States,2
+2601,United Kingdom,2
+2602,United States,2
+2603,United States,1
+2604,United States,4
+2605,India,3
+2606,Belgium,0
+2607,Germany,0
+2608,United States,4
+2609,Japan,0
+2610,United States,0
+2611,Italy,0
+2612,United States,0
+2613,United States,2
+2614,China,1
+2615,Canada,3
+2616,United States,2
+2617,United Kingdom,3
+2618,Australia,3
+2619,United States,4
+2620,Hong Kong,3
+2621,China,3
+2622,United States,0
+2623,United States,1
+2624,Republic of,0
+2625,Canada,3
+2626,Netherlands,3
+2627,United States,0
+2628,Canada,0
+2629,United States,0
+2630,United States,1
+2631,Germany,2
+2632,United States,2
+2633,Mexico,0
+2634,United States,0
+2635,United States,2
+2636,United States,2
+2637,United States,11
+2638,Switzerland,0
+2639,United States,2
+2640,United States,2
+2641,Germany,2
+2642,United States,0
+2643,Germany,0
+2644,United States,0
+2645,New Zealand,0
+2646,Germany,0
+2647,United States,2
+2648,Canada,2
+2649,Netherlands,2
+2650,Mexico,0
+2651,United States,0
+2652,Italy,4
+2653,United States,4
+2654,United Kingdom,2
+2655,Ireland,2
+2656,United States,4
+2657,United States,2
+2658,Hungary,0
+2659,Japan,2
+2660,United States,7
+2661,United States,0
+2662,Germany,0
+2663,United Kingdom,1
+2664,Canada,1
+2665,United States,1
+2666,United States,2
+2667,United States,0
+2668,United States,2
+2669,Brazil,0
+2670,United States,0
+2671,United States,0
+2672,United States,4
+2673,Belgium,1
+2674,Japan,3
+2675,Canada,0
+2676,Germany,0
+2677,Canada,2
+2678,Australia,2
+2679,Canada,2
+2680,United States,1
+2681,Canada,1
+2682,Germany,1
+2683,United States,3
+2684,United States,2
+2685,United States,3
+2686,United States,2
+2687,United Kingdom,2
+2688,United States,0
+2689,Canada,2
+2690,Switzerland,1
+2691,United States,2
+2692,United States,1
+2693,Mexico,5
+2694,Brazil,2
+2695,Brazil,0
+2696,United States,1
+2697,United States,1
+2698,United States,2
+2699,Brazil,1
+2700,United States,9
+2701,Canada,3
+2702,United States,3
+2703,Germany,0
+2704,Germany,3
+2705,United States,6
+2706,United States,0
+2707,United States,2
+2708,Brazil,0
+2709,Canada,7
+2710,Turkey,0
+2711,United States,0
+2712,United States,4
+2713,United States,2
+2714,Japan,2
+2715,Canada,3
+2716,Japan,2
+2717,Japan,0
+2718,United States,5
+2719,Spain,2
+2720,France,2
+2721,Japan,3
+2722,Japan,0
+2723,United States,2
+2724,Netherlands,0
+2725,Germany,0
+2726,United States,0
+2727,United States,1
+2728,Canada,2
+2729,Japan,0
+2730,New Zealand,2
+2731,United States,2
+2732,Germany,3
+2733,Sweden,2
+2734,Mexico,2
+2735,United States,1
+2736,Germany,2
+2737,Mexico,1
+2738,United States,2
+2739,Sweden,0
+2740,Mexico,0
+2741,Brazil,2
+2742,United States,3
+2743,United States,1
+2744,United States,2
+2745,Argentina,2
+2746,Mexico,2
+2747,United States,3
+2748,United States,1
+2749,United States,1
+2750,Mexico,3
+2751,United States,1
+2752,Mexico,0
+2753,Netherlands,3
+2754,Mexico,1
+2755,United States,3
+2756,United States,3
+2757,Canada,1
+2758,United States,1
+2759,United States,2
+2760,United States,2
+2761,United States,3
+2762,United States,3
+2763,United Kingdom,3
+2764,United States,2
+2765,Canada,3
+2766,United States,1
+2767,United States,0
+2768,Canada,2
+2769,United States,4
+2770,United States,3
+2771,Canada,993
+2772,United States,2
+2773,Japan,2
+2774,United States,2
+2775,United States,2
+2776,United States,1
+2777,United States,0
+2778,United States,2
+2779,United States,3
+2780,United States,2
+2781,Japan,0
+2782,United States,2
+2783,United States,0
+2784,United States,7
+2785,United States,4
+2786,United States,2
+2787,China,0
+2788,United States,2
+2789,Mexico,1
+2790,United States,1
+2791,Canada,0
+2792,United States,2
+2793,India,2
+2794,United States,2
+2795,United States,1
+2796,Japan,1
+2797,United States,2
+2798,Canada,1
+2799,Mexico,0
+2800,Canada,1
+2801,Canada,0
+2802,United States,0
+2803,United States,3
+2804,United States,0
+2805,United States,3
+2806,United States,0
+2807,Brazil,0
+2808,United Kingdom,0
+2809,Malaysia,0
+2810,New Zealand,2
+2811,United States,3
+2812,United Kingdom,5
+2813,United States,6
+2814,United States,2
+2815,United States,4
+2816,United States,4
+2817,Japan,3
+2818,United States,5
+2819,United States,2
+2820,Israel,2
+2821,United States,2
+2822,United States,2
+2823,United States,1
+2824,United States,3
+2825,United States,2
+2826,United States,3
+2827,United States,3
+2828,United States,3
+2829,United Kingdom,7
+2830,Republic of,2
+2831,United Kingdom,3
+2832,United Kingdom,2
+2833,United States,1
+2834,Netherlands,3
+2835,Israel,2
+2836,United States,3
+2837,United Kingdom,0
+2838,Brazil,0
+2839,United States,2
+2840,United States,2
+2841,Belgium,4
+2842,Canada,4
+2843,United States,5
+2844,China,5
+2845,United Kingdom,1
+2846,United States,4
+2847,China,4
+2848,Republic of,4
+2849,United States,2
+2850,Canada,0
+2851,United States,2
+2852,Germany,2
+2853,Canada,5
+2854,United States,5
+2855,United States,1
+2856,United States,2
+2857,United States,4
+2858,Canada,2
+2859,United States,2
+2860,Canada,2
+2861,United States,4
+2862,Germany,4
+2863,United States,2
+2864,Canada,0
+2865,Canada,2
+2866,United States,2
+2867,United States,2
