@@ -8,10 +8,18 @@ import scipy as sp
 import pandas as pd
 
 def load_burritos(filename='burrito_current.csv',
-                  delete_unreliable = True):
+                  delete_unreliable = True, use_Google_Sheets = True):
     # Load all data
-    df = pd.read_csv(filename)
+    if use_Google_Sheets:
+        from StringIO import StringIO  # got moved to io in python3.
+        import requests
+        r = requests.get('https://docs.google.com/spreadsheet/ccc?key=18HkrklYz1bKpDLeL-kaMrGjAhUM6LeJMIACwEljCgaw&output=csv')
+        df = pd.read_csv(StringIO(r.content))
+    else:
+        df = pd.read_csv(filename)
     df.Location = df.Location.str.lower()
+    df.Location = df.Location.str.strip()
+    df.Reviewer = df.Reviewer.str.strip()
     
     # Delete unreliable ratings
     if delete_unreliable:
