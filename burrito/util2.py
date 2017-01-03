@@ -17,6 +17,9 @@ def load_burritos(filename='burrito_current.csv',
         df = pd.read_csv(StringIO(r.content))
     else:
         df = pd.read_csv(filename)
+    df.Location = df.Location.str.lower()
+    df.Location = df.Location.str.strip()
+    df.Reviewer = df.Reviewer.str.strip()
     
     # Delete unreliable ratings
     if delete_unreliable:

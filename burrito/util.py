@@ -8,7 +8,7 @@ import scipy as sp
 import pandas as pd
 
 def load_burritos(filename='burrito_current.csv',
-                  delete_unreliable = True, use_Google_Sheets = True):
+                  delete_unreliable = True, delete_nonSD = True, use_Google_Sheets = True):
     # Load all data
     if use_Google_Sheets:
         from StringIO import StringIO  # got moved to io in python3.
@@ -37,6 +37,25 @@ def load_burritos(filename='burrito_current.csv',
         df
         WHERE
         unreliable == 0
+        """
+        df = pandasql.sqldf(q.lower(), locals())
+
+    # Delete non SD ratings
+    if delete_nonSD:
+
+        # Binarize not San Diego
+        df.NonSD = df.NonSD.map({'x':1,'X':1,1:1})
+        df.NonSD = df.NonSD.fillna(0)
+            
+        # Select only reliable ratings from dataframe
+        import pandasql
+        q = """
+        SELECT
+        *
+        FROM
+        df
+        WHERE
+        NonSD == 0
         """
         df = pandasql.sqldf(q.lower(), locals())
 
