@@ -14,7 +14,7 @@ with open('C:/gh/data2/username.txt','r') as myfile:
 with open('C:/gh/data2/pw.txt','r') as myfile:
     env.password = myfile.read()
     
-# 
+# Commands to execute on the remote server
 def run_demo():
     run("git clone https://github.com/srcole/demo_OSG_python")
     with cd('demo_OSG_python'):
