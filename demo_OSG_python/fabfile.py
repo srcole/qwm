@@ -1,20 +1,20 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan 15 20:34:25 2017
-
-@author: Scott
-"""
-
-import time    
+# Load fabfile and other necessary modules
+import time
 from fabric.api import env, run
 from fabric.context_managers import cd
 from fabric.operations import get
+
+# Declare remote host
 env.hosts = ['login.osgconnect.net']
+
+# Declare remote username and key info (optional)
 with open('C:/gh/data2/username.txt','r') as myfile:
     env.user = myfile.read()
 with open('C:/gh/data2/pw.txt','r') as myfile:
     env.password = myfile.read()
     
+# 
 def run_demo():
     run("git clone https://github.com/srcole/demo_OSG_python")
     with cd('demo_OSG_python'):
@@ -26,27 +26,6 @@ def run_demo():
         run("rm -R misshapen")
         run("mkdir Log")
         run("condor_submit sub_PsTs.submit")
-        # Need to wait til done running
-        # Could do this by repeatedly sleeping and checking how many files
-        # there are, and only continue after time limit ot all files done
+        # Need to wait until done running; should be less than 5 minutes
         time.sleep(300)
         get("./out*")
-    
-def run_demo3():
-    with cd('demo_OSG_python'):
-        run("condor_submit sub_PsTs.submit")
-        time.sleep(300)
-        get("./out*")
-    
-def run_demo2():
-    with cd('demo_OSG_python'):
-        get("./out*")
-
-def uptime():
-    run("pwd")
-    with cd('demo_OSG_python'):
-        run("pwd")
-        run("uptime")
-
-def test_get():
-    get("./temp*")
