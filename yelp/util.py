@@ -11,6 +11,8 @@ import pprint
 import requests
 import sys
 import urllib
+import glob
+import os
 
 from urllib.error import HTTPError
 from urllib.parse import quote
@@ -182,5 +184,119 @@ def process_city_population_data():
     # Get just city, state, and pop
     df_cities.rename(columns={'respop72016': 'population'}, inplace=True)
     df_cities = df_cities[['city', 'state', 'population']]
-    df_cities.to_csv('/gh/data2/yelp/city_pop.csv')
+    df_cities.to_csv('/gh/data2/yelp/city_pop_old2.csv')
     return df_cities
+
+
+def process_scraped_data():
+    """
+    Transform data from original scraped format to 2 refined dataframes
+    that contain data for all restaurants
+    """
+    # Load cities info
+    df_cities = pd.read_csv('/gh/data2/yelp/city_pop.csv', index_col=0)
+
+    # Determine paths to all dataframes
+    dfs_places = []
+    df_path_base = '/gh/data2/yelp/food_by_city/places/'
+    for i, row in df_cities.iterrows():
+        city = row['city']
+        state = row['state']
+        json_path = df_path_base + city + '_' + state + '.json'
+        if os.path.isfile(json_path):
+            df_temp = pd.read_json(json_path)
+            df_temp['city'] = city
+            df_temp['state'] = state
+            dfs_places.append(df_temp)
+        else:
+            print('No data for', city, state)
+
+    # Concatenate dataframes for each city
+    df_places = pd.concat(dfs_places)
+    df_places.reset_index(inplace=True)
+
+    # Create custom columns
+    df_places['all_aliases'] = [[a['alias'] for a in df_places['categories'][i]] for i in df_places.index]
+    df_places['latitude'] = [df_places.loc[i]['coordinates']['latitude'] for i in df_places.index]
+    df_places['longitude'] = [df_places.loc[i]['coordinates']['longitude'] for i in df_places.index]
+    df_places['cost'] = [len(str(x)) for x in df_places['price'].values]
+    df_places['has_delivery'] = ['delivery' in x for x in df_places['transactions'].values]
+    df_places['has_pickup'] = ['pickup' in x for x in df_places['transactions'].values]
+
+    # Determine which columns to keep
+    cols_keep = ['id', 'name', 'city', 'state', 'rating', 'review_count', 'cost', 'all_aliases',
+                 'latitude', 'longitude', 'has_delivery', 'has_pickup', 'url']
+    df_places = df_places[cols_keep]
+
+    # Determine all categories and their indices
+    all_categories = np.unique(np.hstack(df_places['all_aliases'].values))
+    k, v = np.unique(all_categories, return_inverse=True)
+    idx_by_category = dict(zip(k, v))
+
+    # Make a dataframe indicating if each restaurant is each category
+    N_categories = len(all_categories)
+    matrix_categories = np.zeros((len(df_places), N_categories), dtype=int)
+    for i, row in df_places.iterrows():
+        # Determine number of aliases
+        N_aliases = len(row['all_aliases'])
+        for j in range(N_aliases):
+            # Mark alias as present
+            alias_name = row['all_aliases'][j]
+            matrix_categories[i, idx_by_category[alias_name]] = 1
+    df_places_categories = pd.DataFrame(matrix_categories, columns=all_categories)
+
+    # Save dataframes
+    df_places.drop('all_aliases', axis=1).to_csv('/gh/data2/yelp/food_by_city/df_restaurants.csv')
+    df_places_categories.to_csv('/gh/data2/yelp/food_by_city/df_categories.csv')
+    return df_places, df_places_categories
+
+
+def expand_df_cities():
+    """
+    Append to city dataframe some of the info scraped from yelp.
+    """
+    # Load cities info
+    df_cities = pd.read_csv('/gh/data2/yelp/city_pop_old2.csv', index_col=0)
+    df_restaurants = pd.read_csv('/gh/data2/yelp/food_by_city/df_restaurants.csv', index_col=0)
+
+    # Total number of restaurants
+    N_cities = len(df_cities)
+    total_food = np.zeros(N_cities, dtype=int)
+    for i, row in df_cities.iterrows():
+        # Load numpy array of total places
+        total_temp = np.load('/gh/data2/yelp/food_by_city/totals/' + row['city'] + '_' + row['state'] + '.npy')
+        total_food[i] = int(np.median(total_temp))
+    df_cities['total_food'] = total_food
+
+    # Latitude
+    lats = np.zeros(N_cities)
+    for i, row in df_cities.iterrows():
+        # Try to load text
+        try:
+            with open('/gh/data2/yelp/food_by_city/lats/' + row['city'] + '_' + row['state'] + '.txt', 'r') as f:
+                lats[i] = float(f.read())
+        except FileNotFoundError:
+            lats_temp = np.load('/gh/data2/yelp/food_by_city/lats/' + row['city'] + '_' + row['state'] + '.npy')
+            lats[i] = np.median(lats_temp)
+    df_cities['latitude'] = lats
+
+    # Longitude
+    longs = np.zeros(N_cities)
+    for i, row in df_cities.iterrows():
+        # Try to load text
+        try:
+            with open('/gh/data2/yelp/food_by_city/longs/' + row['city'] + '_' + row['state'] + '.txt', 'r') as f:
+                longs[i] = float(f.read())
+        except FileNotFoundError:
+            longs_temp = np.load('/gh/data2/yelp/food_by_city/longs/' + row['city'] + '_' + row['state'] + '.npy')
+            longs[i] = np.median(longs_temp)
+    df_cities['longitude'] = longs
+
+    # Count number of restaurants scraped for each city
+    total_scraped = np.zeros(N_cities, dtype=int)
+    for i, row in df_cities.iterrows():
+        # Load numpy array of total places
+        total_scraped[i] = sum((df_restaurants['city'] == row['city']) & (df_restaurants['state'] == row['state']))
+    df_cities['total_scraped'] = total_scraped
+
+    df_cities.to_csv('/gh/data2/yelp/city_pop.csv')
