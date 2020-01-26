@@ -102,9 +102,9 @@ callback = CustomJS(args=dict(source=source), code="""
 """)
 
 # Define all sliders
-savings_start_slider = Slider(start=0, end=100000, value=savings_start, step=1000,
+savings_start_slider = Slider(start=0, end=200000, value=savings_start, step=1000,
                               title="Starting savings ($)", callback=callback)
-annual_savings_slider = Slider(start=0, end=50000, value=annual_savings, step=1000,
+annual_savings_slider = Slider(start=0, end=100000, value=annual_savings, step=1000,
                                title="Annual savings ($)", callback=callback)
 retired_income_slider = Slider(start=0, end=100000, value=retired_income, step=1000,
                                title="Retired net income ($)", callback=callback)
